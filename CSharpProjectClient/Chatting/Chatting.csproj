@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3E74C8BF-832E-49DC-9C80-CE8581CCF096}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Chatting</RootNamespace>
+    <AssemblyName>Chatting</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Chat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Chat.Designer.cs">
+      <DependentUpon>Chat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ClientItem.Designer.cs">
+      <DependentUpon>ClientItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddChatMember.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AddChatMember.Designer.cs">
+      <DependentUpon>AddChatMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FriendRequestItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FriendRequestItem.Designer.cs">
+      <DependentUpon>FriendRequestItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FriendProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FriendProfile.Designer.cs">
+      <DependentUpon>FriendProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GrowLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ImageConverter.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StartPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartPage.Designer.cs">
+      <DependentUpon>StartPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MyProfile.Designer.cs">
+      <DependentUpon>MyProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FriendItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FriendItem.Designer.cs">
+      <DependentUpon>FriendItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainPage.Designer.cs">
+      <DependentUpon>MainPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TextMessage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TextMessage.Designer.cs">
+      <DependentUpon>TextMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChatItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ChatItem.Designer.cs">
+      <DependentUpon>ChatItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Validation.cs" />
+    <EmbeddedResource Include="Chat.resx">
+      <DependentUpon>Chat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientItem.resx">
+      <DependentUpon>ClientItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddChatMember.resx">
+      <DependentUpon>AddChatMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FriendRequestItem.resx">
+      <DependentUpon>FriendRequestItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FriendProfile.resx">
+      <DependentUpon>FriendProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartPage.resx">
+      <DependentUpon>StartPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyProfile.resx">
+      <DependentUpon>MyProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FriendItem.resx">
+      <DependentUpon>FriendItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainPage.resx">
+      <DependentUpon>MainPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TextMessage.resx">
+      <DependentUpon>TextMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChatItem.resx">
+      <DependentUpon>ChatItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\More.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\30-306432_big-image-button-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\Close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\AcceptIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\Reject.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\SendRequest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\130-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\RequestSended.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\wp37411.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\Accept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\BackgroundProfile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\btnBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\Profile.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

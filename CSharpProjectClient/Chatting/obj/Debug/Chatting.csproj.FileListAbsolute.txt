@@ -1,0 +1,64 @@
+F:\ITI .Net Full Stack\Projects\CSharpProject\Chatting\bin\Debug\Chatting.exe.config
+F:\ITI .Net Full Stack\Projects\CSharpProject\Chatting\bin\Debug\Chatting.exe
+F:\ITI .Net Full Stack\Projects\CSharpProject\Chatting\bin\Debug\Chatting.pdb
+F:\ITI .Net Full Stack\Projects\CSharpProject\Chatting\obj\Debug\Chatting.Login.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject\Chatting\obj\Debug\Chatting.MainPage.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject\Chatting\obj\Debug\Chatting.Properties.Resources.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject\Chatting\obj\Debug\Chatting.csproj.GenerateResource.cache
+F:\ITI .Net Full Stack\Projects\CSharpProject\Chatting\obj\Debug\Chatting.exe
+F:\ITI .Net Full Stack\Projects\CSharpProject\Chatting\obj\Debug\Chatting.pdb
+F:\ITI .Net Full Stack\Projects\CSharpProject\Chatting\obj\Debug\Chatting.TextMessage.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject\Chatting\obj\Debug\Chatting.ChatItem.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject\Chatting\obj\Debug\Chatting.Chat.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject\Chatting\obj\Debug\Chatting.FriendProfile.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject\Chatting\obj\Debug\Chatting.StartPage.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject\Chatting\obj\Debug\Chatting.MyProfile.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject\Chatting\obj\Debug\Chatting.FriendItem.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject\Chatting\obj\Debug\Chatting.Register.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject\Chatting\obj\Debug\Chatting.csproj.CoreCompileInputs.cache
+F:\ITI .Net Full Stack\Projects\CSharpProject\Chatting\obj\Debug\Chatting.ClientItem.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject\Chatting\obj\Debug\Chatting.FriendRequestItem.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject\Chatting\obj\Debug\Chatting.csprojAssemblyReference.cache
+F:\ITI .Net Full Stack\Projects\CSharpProject - Copy\Chatting\bin\Debug\Chatting.exe.config
+F:\ITI .Net Full Stack\Projects\CSharpProject - Copy\Chatting\bin\Debug\Chatting.exe
+F:\ITI .Net Full Stack\Projects\CSharpProject - Copy\Chatting\bin\Debug\Chatting.pdb
+F:\ITI .Net Full Stack\Projects\CSharpProject - Copy\Chatting\obj\Debug\Chatting.csprojAssemblyReference.cache
+F:\ITI .Net Full Stack\Projects\CSharpProject - Copy\Chatting\obj\Debug\Chatting.Chat.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject - Copy\Chatting\obj\Debug\Chatting.ClientItem.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject - Copy\Chatting\obj\Debug\Chatting.FriendRequestItem.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject - Copy\Chatting\obj\Debug\Chatting.FriendProfile.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject - Copy\Chatting\obj\Debug\Chatting.Login.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject - Copy\Chatting\obj\Debug\Chatting.StartPage.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject - Copy\Chatting\obj\Debug\Chatting.MyProfile.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject - Copy\Chatting\obj\Debug\Chatting.FriendItem.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject - Copy\Chatting\obj\Debug\Chatting.Register.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject - Copy\Chatting\obj\Debug\Chatting.MainPage.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject - Copy\Chatting\obj\Debug\Chatting.Properties.Resources.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject - Copy\Chatting\obj\Debug\Chatting.TextMessage.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject - Copy\Chatting\obj\Debug\Chatting.ChatItem.resources
+F:\ITI .Net Full Stack\Projects\CSharpProject - Copy\Chatting\obj\Debug\Chatting.csproj.GenerateResource.cache
+F:\ITI .Net Full Stack\Projects\CSharpProject - Copy\Chatting\obj\Debug\Chatting.csproj.CoreCompileInputs.cache
+F:\ITI .Net Full Stack\Projects\CSharpProject - Copy\Chatting\obj\Debug\Chatting.exe
+F:\ITI .Net Full Stack\Projects\CSharpProject - Copy\Chatting\obj\Debug\Chatting.pdb
+F:\ITI .Net Full Stack\Projects\CSharpProjectClient\Chatting\bin\Debug\Chatting.exe.config
+F:\ITI .Net Full Stack\Projects\CSharpProjectClient\Chatting\bin\Debug\Chatting.exe
+F:\ITI .Net Full Stack\Projects\CSharpProjectClient\Chatting\bin\Debug\Chatting.pdb
+F:\ITI .Net Full Stack\Projects\CSharpProjectClient\Chatting\obj\Debug\Chatting.csprojAssemblyReference.cache
+F:\ITI .Net Full Stack\Projects\CSharpProjectClient\Chatting\obj\Debug\Chatting.Chat.resources
+F:\ITI .Net Full Stack\Projects\CSharpProjectClient\Chatting\obj\Debug\Chatting.ClientItem.resources
+F:\ITI .Net Full Stack\Projects\CSharpProjectClient\Chatting\obj\Debug\Chatting.FriendRequestItem.resources
+F:\ITI .Net Full Stack\Projects\CSharpProjectClient\Chatting\obj\Debug\Chatting.FriendProfile.resources
+F:\ITI .Net Full Stack\Projects\CSharpProjectClient\Chatting\obj\Debug\Chatting.Login.resources
+F:\ITI .Net Full Stack\Projects\CSharpProjectClient\Chatting\obj\Debug\Chatting.StartPage.resources
+F:\ITI .Net Full Stack\Projects\CSharpProjectClient\Chatting\obj\Debug\Chatting.MyProfile.resources
+F:\ITI .Net Full Stack\Projects\CSharpProjectClient\Chatting\obj\Debug\Chatting.FriendItem.resources
+F:\ITI .Net Full Stack\Projects\CSharpProjectClient\Chatting\obj\Debug\Chatting.Register.resources
+F:\ITI .Net Full Stack\Projects\CSharpProjectClient\Chatting\obj\Debug\Chatting.MainPage.resources
+F:\ITI .Net Full Stack\Projects\CSharpProjectClient\Chatting\obj\Debug\Chatting.Properties.Resources.resources
+F:\ITI .Net Full Stack\Projects\CSharpProjectClient\Chatting\obj\Debug\Chatting.TextMessage.resources
+F:\ITI .Net Full Stack\Projects\CSharpProjectClient\Chatting\obj\Debug\Chatting.ChatItem.resources
+F:\ITI .Net Full Stack\Projects\CSharpProjectClient\Chatting\obj\Debug\Chatting.csproj.GenerateResource.cache
+F:\ITI .Net Full Stack\Projects\CSharpProjectClient\Chatting\obj\Debug\Chatting.csproj.CoreCompileInputs.cache
+F:\ITI .Net Full Stack\Projects\CSharpProjectClient\Chatting\obj\Debug\Chatting.exe
+F:\ITI .Net Full Stack\Projects\CSharpProjectClient\Chatting\obj\Debug\Chatting.pdb
+F:\ITI .Net Full Stack\Projects\CSharpProjectClient\Chatting\obj\Debug\Chatting.AddChatMember.resources
